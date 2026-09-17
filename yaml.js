@@ -1,8 +1,3 @@
-------------------------------------------
-
-yaml.js
-------------------------------------------
-
 import express from "express";
 import yaml from "js-yaml";
 import fs from "fs";
