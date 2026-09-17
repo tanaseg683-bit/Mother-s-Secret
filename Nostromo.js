@@ -1,8 +1,3 @@
-------------------------------------------
-
-Nostromo.js
-------------------------------------------
-
 import express from "express";
 import fs from "fs";
 // import { attachWebSocket } from "../../mothers_secret_challenge/websocket.js";
